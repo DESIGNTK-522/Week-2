@@ -31,6 +31,7 @@ try:
         
         # Create sample sensor data
         sensor_data = {
+            "hello": "hello class!!!!!!!",
             "temperature": temperature,
             "humidity": humidity,
             "timestamp": datetime.now().isoformat()
